@@ -34,7 +34,7 @@ changesb();
 // console.log('a =' + a)
 // console.log('b =' + b)
 
-// Exercise 4
+// Exercise 3
 let x = 5
 let y = 2
 function sum(){
